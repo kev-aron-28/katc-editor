@@ -323,6 +323,5 @@ int main(int argc, char *argv[])
   return 0;
 }
 
-// TODO: Handle the size of window
 // TODO: Edit file
 // TODO: Show message if no file provided

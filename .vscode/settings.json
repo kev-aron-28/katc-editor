@@ -1,8 +1,12 @@
 {
+<<<<<<< HEAD
   "C_Cpp.errorSquiggles": "disabled",
   "files.associations": {
     "*.vue": "vue",
     "sdl.h": "c",
     "sdl_video.h": "c"
   }
+=======
+  "C_Cpp.errorSquiggles": "disabled"
+>>>>>>> 3521adfb98564d97f3bfee5874fd6def1fe254d8
 }
